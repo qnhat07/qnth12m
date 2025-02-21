@@ -2,7 +2,7 @@ function login()
 {
  let u= username.value
  let p= pw.value
- if (u=="nigga" && p=="123")
+ if (u=="agree" && p=="1111")
 
  {
    window.open("home.html")
